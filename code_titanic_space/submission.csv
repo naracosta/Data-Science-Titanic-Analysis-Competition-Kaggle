@@ -2463,7 +2463,7 @@ PassengerId,Transported
 5358_01,True
 5364_01,True
 5369_01,False
-5369_02,True
+5369_02,False
 5369_03,True
 5370_01,False
 5371_01,True
@@ -4212,7 +4212,7 @@ PassengerId,Transported
 9143_01,False
 9143_02,False
 9143_03,False
-9146_01,False
+9146_01,True
 9146_02,False
 9146_03,True
 9147_01,False
